@@ -1,0 +1,15 @@
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\DELL\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HMS.mdf
+C:\Users\DELL\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HMS_log.ldf
+C:\Users\DELL\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Login.resources
+C:\Users\DELL\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Patient_Registration.resources
+C:\Users\DELL\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Record.resources
+C:\Users\DELL\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientInformation.resources
+C:\Users\DELL\onedrive\documents\visual studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Update_Info.resources
